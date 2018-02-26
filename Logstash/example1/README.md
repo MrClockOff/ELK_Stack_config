@@ -37,7 +37,7 @@ The example input json:
 
 the output in logstash:
 
-```json
+```ruby
 {
     "@timestamp" => 2018-02-26T09:21:50.842Z,
      "@metadata" => {
